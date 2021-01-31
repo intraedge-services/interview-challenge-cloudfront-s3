@@ -33,9 +33,9 @@ I have a react application that I need to host it using AWS.   Since I am just l
 - For deploying content to S3,  you can write a shell script or AWS Commands that copies the build assets to S3 bucket.  (You can use any approach,  one of the approach is to use ```aws sync``` command
 
 ## Hints
--	**Google/StackOverflow/AWS Forums** is your best Friend! As long as you have understanding of solution and are able to demostrate,  it does not matter how you come up with the solution. You can take help from anyone.
+-	**Google/StackOverflow/AWS Forums/Internet** is your best Friend! As long as you have understanding of solution and are able to demostrate,  it does not matter how you come up with the solution. You can take help from anyone.
 -	https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html
-- It is ok not to automate everything using cloudformation for this excercise. As long as cloudfront distribution and S3 bucket for hosting content can be added,  it is a good enough demonstrate to show your cloudformation skills.
+- It is ok not to automate everything using cloudformation for this excercise. As long as cloudfront distribution and S3 bucket for hosting content can be added,  it is a good enough demonstration of your cloudformation skills.
 
 *All the best!*
 
